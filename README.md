@@ -1,2 +1,2 @@
 # Comunidade_Impressionadora
- Site desenvolvido em flask
+ Site criado com flask e bootstrap
