@@ -1,5 +1,2 @@
-## Ignore Virtual Environment
+## Ignore virtual environment
 env/
-
-## Ignore Files
-*.txt
